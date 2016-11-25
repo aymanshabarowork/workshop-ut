@@ -505,13 +505,13 @@ fieldset[disabled] .btn-success.active {
 }
 
 
-.command-box{
+.box{
 	background:#ccc;
 	color: #000;
 	padding:20px 10px;
 	border-radius: 20px;
 }
-.command-name{
+.box-title{
 	font-size:18px;
 	font-weight:bold;
 }
